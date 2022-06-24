@@ -20,6 +20,8 @@ The Poisson process is one of the most widely-used counting processes. It is usu
 3. The requests for individual documents on a web server
 
  
+ 
+ 
 # Procedure :
 
 ![image](https://user-images.githubusercontent.com/104613195/171325180-eaf80506-545c-4f35-878a-1e95aa0e81e3.png)
